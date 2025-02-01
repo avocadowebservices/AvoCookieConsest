@@ -12,11 +12,11 @@ Features:
 - Lightweight and easy to use.
 
 A Settings modal where users can enable or disable cookie categories:
--Necessary
--Functional
--Analytics
--Marketing
--Third-Party Cookies
+Necessary
+Functional
+Analytics
+Marketing
+Third-Party Cookies
 
 ---------------------------------------
 Installation:
