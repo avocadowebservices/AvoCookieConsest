@@ -1,0 +1,48 @@
+
+.cookie-modal {
+    width: 500px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+.cookie-modal-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cookie-tabs {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+}
+.tab-button {
+    flex-grow: 1;
+    text-align: center;
+    background: #f4f4f4;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+}
+.tab-button.active {
+    background: #0073e6;
+    color: white;
+}
+.cookie-tab-content {
+    display: none;
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+}
+.cookie-tab-content.active {
+    display: block;
+}
+.cookie-modal-actions {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 15px;
+}
