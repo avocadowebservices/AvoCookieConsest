@@ -50,5 +50,3 @@ This plugin is open-source and licensed under the GPL-3.0 License.
 
 Support
 For any issues or feature requests, please open a thread in this section.
-
-Developed by AvocadoWeb Services | avocadoweb.net
