@@ -4,7 +4,7 @@
  * Plugin URI: https://avocadoweb.net
  * Description: A simple and elegant cookie consent bar for WordPress.
  * Version: 1.0
- * Author: AvocadoWeb Services
+ * Author: Joseph Brzezowski / AvocadoWeb Services LLC
  * Author URI: https://avocadoweb.net
  * License: GPL2
  */
