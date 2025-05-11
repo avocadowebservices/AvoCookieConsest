@@ -1,5 +1,12 @@
 **Cookie Consest - WordPress Plugin**
-Version 1.0 - Beta Version
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-GPL--2.0-blue.svg)
+![WordPress Tested](https://img.shields.io/badge/WordPress-6.5%2B-green)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Developed by](https://img.shields.io/badge/Developed%20by-Joseph%20Brzezowski-yellow)
+![Accessibility](https://img.shields.io/badge/accessibility-inclusive-blueviolet)
+
 
 **Description:**
 Cookie Consest is a simple and elegant cookie consent plugin for WordPress. This plugin helps website owners comply with cookie regulations by displaying a cookie consent bar and allowing users to manage their preferences.
